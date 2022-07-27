@@ -1,9 +1,9 @@
 # Grass-legume-mixtures-
 ##############################
-# ANALISES SILVIO POR ESTACAO
+# ANALISES
 # 
 ##############################
-# Para uso do Silvio
+# For
 getwd()
 setwd("C:/Users/silvi/Desktop")
 dados_estacao<-read.csv("C:/Users/silvi/Desktop/dados_Silvio_ano.csv",header=TRUE)
